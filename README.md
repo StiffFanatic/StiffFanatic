@@ -12,7 +12,7 @@
 
 ### 👨‍💻 Professional Summary & AI / STEM Domain Focus
 > **Electronic Engineering & Embedded Systems Specialist** with strong analytical background in dynamic modeling, digital signal processing (DSP), closed-loop control systems, and RTL digital design in VHDL. 
-> Proven experience in deductive problem-solving, bare-metal firmware debugging (C/C++, Assembly), and structured verification of technical logic tailored for **AI Model Training, Code Evaluation, and STEM Domain Annotation** (platforms such as *Alignerr*, *Outlier*, *DataAnnotation*).
+> Proven experience in deductive problem-solving, bare-metal firmware debugging (C/C++), and structured verification of technical logic tailored for **AI Model Training, Code Evaluation, and STEM Domain Annotation** (platforms such as *Alignerr*, *Outlier*, *DataAnnotation*).
 
 ---
 
@@ -29,7 +29,6 @@
       <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
       <img src="https://img.shields.io/badge/VHDL-5C768D?style=flat-square" />
-      <img src="https://img.shields.io/badge/Assembly_AVR-000000?style=flat-square" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
     </td>
