@@ -12,7 +12,7 @@
 
 ### 👨‍💻 Professional Summary & AI / STEM Domain Focus
 > **Electronic Engineering & Embedded Systems Specialist** with strong analytical background in dynamic modeling, digital signal processing (DSP), closed-loop control systems, and RTL digital design in VHDL. 
-> Proven experience in deductive problem-solving, bare-metal firmware debugging (C/C++), and structured verification of technical logic tailored for **AI Model Training, Code Evaluation, and STEM Domain Annotation** (platforms such as *Alignerr*, *Outlier*, *DataAnnotation*).
+> Proven experience in deductive problem-solving, bare-metal firmware debugging (C/C++), and structured verification of technical logic tailored for **AI Model Training, Code Evaluation, and STEM Domain Annotation**
 
 ---
 
