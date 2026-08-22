@@ -1,5 +1,9 @@
 # ⚡ Hi, I'm Andrés, an electronics engineering student 👋
 
+<div align="center">
+  <img src="./assets/banner_electronic_engineer.png" alt="Electronic Engineer Banner" width="100%" />
+</div>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-darkgreen?style=for-the-badge&logo=google-chrome)](https://github.com)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:tu-email@dominio.com)
