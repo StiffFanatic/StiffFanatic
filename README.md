@@ -1,7 +1,7 @@
 # ⚡ Hi, I'm Andrés, an electronics engineering student 👋
 
 <div align="center">
-  <img src="./assets/banner_electronic_engineer.png" alt="Electronic Engineer Banner" width="100%" />
+  <img src="Banner Ing Electronico.png" alt="Electronic Engineer Banner" width="100%" />
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
