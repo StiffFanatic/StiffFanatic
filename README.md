@@ -1,4 +1,4 @@
-# ⚡ Hi there, I'm an Electronic & Embedded Systems Engineer 👋
+# ⚡ Hi, I'm Andrés, an electronics engineering student 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-darkgreen?style=for-the-badge&logo=google-chrome)](https://github.com)
