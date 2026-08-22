@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/andres-david-nazarith-gomez-67730a430)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-darkgreen?style=for-the-badge&logo=google-chrome)](https://github.com)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](andresnazarit91@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:andresnazarit91@gmail.com)
 
 ---
 
