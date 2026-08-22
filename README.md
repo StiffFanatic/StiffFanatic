@@ -4,9 +4,9 @@
   <img src="Banner Ing Electronico.png" alt="Electronic Engineer Banner" width="100%" />
 </div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/andres-david-nazarith-gomez-67730a430)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-darkgreen?style=for-the-badge&logo=google-chrome)](https://github.com)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:tu-email@dominio.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](andresnazarit91@gmail.com)
 
 ---
 
