@@ -11,8 +11,8 @@
 ---
 
 ### 👨‍💻 Professional Summary & AI / STEM Domain Focus
-> **Electronic Engineering & Embedded Systems Specialist** with strong analytical background in dynamic modeling, digital signal processing (DSP), closed-loop control systems, and RTL digital design in VHDL. 
-> Proven experience in deductive problem-solving, bare-metal firmware debugging (C/C++), and structured verification of technical logic tailored for **AI Model Training, Code Evaluation, and STEM Domain Annotation**
+> **Electronic Engineering & Embedded Systems Specialist** with strong analytical background in dynamic modeling, digital signal processing (DSP), closed-loop control systems, RTL digital design in VHDL, and robust full-stack software development. 
+> Proven experience in deductive problem-solving, bare-metal firmware debugging (C/C++), relational database architecture, and structured verification of technical logic tailored for **AI Model Training, Code Evaluation, and STEM Domain Annotation**.
 
 ---
 
@@ -30,7 +30,15 @@
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
       <img src="https://img.shields.io/badge/VHDL-5C768D?style=flat-square" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Backend & Databases</strong></td>
+    <td>
+      <code>Node.js</code> • <code>Express.js</code> • <code>PostgreSQL (Neon Serverless)</code> • <code>pg Connection Pooling</code> • <code>JSONB Schemas</code> • <code>RESTful APIs</code> • <code>Resend API</code> • <code>Background Cron Workers</code>
     </td>
   </tr>
   <tr>
@@ -52,7 +60,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>EDA, Simulation & Tools</strong></td>
+    <td><strong>EDA, Dev & Simulation Tools</strong></td>
     <td>
       <code>Intel Quartus Prime</code> • <code>VS Code + PlatformIO</code> • <code>NI Multisim</code> • <code>LTSpice</code> • <code>Proteus</code> • <code>Git & GitHub</code> • <code>NumPy / SciPy / Matplotlib</code>
     </td>
@@ -93,11 +101,20 @@
 
 ---
 
+### 📌 4. BarberGold: Full-Stack Automated Booking & Business Management System
+* **Domain:** Cloud Architecture, Serverless Databases, Backend Engineering & Asynchronous Workflows
+* Architected a commercial scheduling and business operations platform utilizing **Node.js, Express.js, and Serverless PostgreSQL (Neon)** via connection pooling (`pg`).
+* Designed an ACID-compliant relational schema supporting staff availability, service durations, and flexible business configurations using semi-structured **JSONB** attributes.
+* Implemented asynchronous notification pipelines with **Resend API** for transactional email dispatch and integrated automated **Cron Workers** for background schedule tracking and reminder delivery.
+
+---
+
 ## 🎯 Technical Verification & ATS Keywords
 ```text
 Sistemas Embebidos | Embedded Systems | VHDL | FPGA | C/C++ | Bare-Metal Firmware | 
 Digital Signal Processing (DSP) | Fast Fourier Transform (FFT) | PID Control | 
 Mathematical Modeling | Euler-Lagrange | Finite State Machines (FSM) | ADC 12-bit | 
-SPI Protocol | Pulse Width Modulation (PWM) | Butterworth Filter | HDL | 
-Signal Conditioning | System Identification | PlatformIO | Quartus Prime | ESP32 | 
-ATmega328P | Circuit Simulation | Deductive Logic | Data Annotation | AI Model Training (STEM)
+SPI Protocol | Pulse Width Modulation (PWM) | Butterworth Filter | Full-Stack Development | 
+Node.js | Express.js | PostgreSQL | Neon Serverless | Database Design | Cron Workers | 
+REST APIs | Resend API | PlatformIO | Quartus Prime | ESP32 | ATmega328P | 
+Circuit Simulation | Deductive Logic | Data Annotation | AI Model Training (STEM)
