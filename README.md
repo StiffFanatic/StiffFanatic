@@ -102,6 +102,8 @@
 ---
 
 ### 📌 4. BarberGold: Full-Stack Automated Booking & Business Management System
+> 🔗 **Live URL:** [barbergold.com](https://www.barbergold.com.co/)
+
 * **Domain:** Cloud Architecture, Serverless Databases, Backend Engineering & Asynchronous Workflows
 * **Solely engineered and architected** a commercial scheduling and business operations platform from scratch utilizing **Node.js, Express.js, and Serverless PostgreSQL (Neon)** via connection pooling (`pg`).
 * **Designed and structured** an ACID-compliant relational schema supporting staff availability, dynamic service durations, and business rules using semi-structured **JSONB** attributes.
