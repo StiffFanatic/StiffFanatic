@@ -103,9 +103,10 @@
 
 ### 📌 4. BarberGold: Full-Stack Automated Booking & Business Management System
 * **Domain:** Cloud Architecture, Serverless Databases, Backend Engineering & Asynchronous Workflows
-* Architected a commercial scheduling and business operations platform utilizing **Node.js, Express.js, and Serverless PostgreSQL (Neon)** via connection pooling (`pg`).
-* Designed an ACID-compliant relational schema supporting staff availability, service durations, and flexible business configurations using semi-structured **JSONB** attributes.
-* Implemented asynchronous notification pipelines with **Resend API** for transactional email dispatch and integrated automated **Cron Workers** for background schedule tracking and reminder delivery.
+* **Solely engineered and architected** a commercial scheduling and business operations platform from scratch utilizing **Node.js, Express.js, and Serverless PostgreSQL (Neon)** via connection pooling (`pg`).
+* **Designed and structured** an ACID-compliant relational schema supporting staff availability, dynamic service durations, and business rules using semi-structured **JSONB** attributes.
+* **Engineered** asynchronous event pipelines with **Resend API** for real-time transactional emails and built standalone **Cron Workers** for background schedule polling and automated appointment reminders.
+* **Delivered and deployed** the full end-to-end solution for commercial production, handling database migrations, API error handling, and concurrency locks.
 
 ---
 
